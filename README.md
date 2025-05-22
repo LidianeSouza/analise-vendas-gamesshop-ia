@@ -23,26 +23,6 @@ Com o uso de ferramentas como o **ChatGPT**, buscamos gerar respostas claras e c
 
 ---
 
-## 📁 Estrutura do Repositório
-
-📦 gamesshop-sales-insights
-├── 📁 planilhas/ # Planilhas de vendas fornecidas por terceiros
-│ ├── vendas_america.csv
-│ ├── vendas_europa.csv
-│ └── vendas_asia.csv
-│
-├── 📁 prompts/ # Prompts utilizados na análise com IA
-│ └── prompts_analise.md
-│
-├── 📁 insights/ # Resumo dos principais insights obtidos
-│ └── insights_finais.md
-│
-├── README.md # Descrição completa do projeto
-└── LICENSE # (Opcional) Licença do projeto
-
-
----
-
 ## 🤖 Ferramentas e Tecnologias Utilizadas
 
 - 🧠 [ChatGPT (OpenAI)](https://chat.openai.com/) – Para análise de dados via prompts estruturados
