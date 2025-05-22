@@ -1,6 +1,6 @@
 # 📊 Análise de Vendas com IA – GamesShop
 
-## 🏢 Sobre a empresa fictícia
+## 🏢 Sobre a empresa
 
 A **GamesShop** é uma fabricante global de consoles de videogame. Seu foco está exclusivamente na **produção dos equipamentos**, enquanto a **distribuição e as vendas** são realizadas por empresas terceiras. Com alcance internacional, os produtos da GamesShop estão disponíveis em diversos países, o que traz desafios relacionados à **logística**, **popularidade regional dos produtos** e **consolidação de dados** de diferentes fontes.
 
@@ -86,7 +86,6 @@ Este projeto é parte dos meus estudos práticos sobre **análise de dados com a
 
 - [Portal Microsoft Azure](https://portal.azure.com/)
 - [Microsoft Learn – Treinamentos Gratuitos](https://learn.microsoft.com/pt-br/training/)
-- [Documentação Oficial do Azure SQL Database](https://learn.microsoft.com/pt-br/azure/azure-sql/)
 - [ChatGPT da OpenAI](https://chat.openai.com/)
 
 
