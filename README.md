@@ -10,7 +10,7 @@ A **GamesShop** é uma fabricante global de consoles de videogame. Seu foco est�
 
 Este projeto tem como objetivo utilizar **inteligência artificial e engenharia de prompts** para analisar relatórios de vendas da GamesShop e **extrair insights estratégicos**. A análise será baseada em planilhas consolidadas de vendas de terceiros, permitindo transformar dados brutos em informações úteis para o fabricante.
 
-Com o uso de ferramentas como o **ChatGPT**, buscamos gerar respostas claras e contextualizadas a partir de perguntas específicas (prompts), abordando questões importantes para a empresa.
+Com o uso de ferramentas como o **ChatGPT**, busquei gerar respostas claras e contextualizadas a partir de perguntas específicas (prompts), abordando questões importantes para a empresa.
 
 ---
 
@@ -58,7 +58,7 @@ Mais detalhes no arquivo [`insights/insights_finais.md`](insights/insights_finai
 
 ## 🧑‍💻 Contribuição
 
-Este projeto é parte dos meus estudos práticos sobre **análise de dados com apoio de inteligência artificial**. Se você quiser trocar ideias, sugerir melhorias ou tiver feedback, fique à vontade para abrir uma issue ou me chamar!
+Este projeto faz parte dos meus estudos práticos sobre **análise de dados com apoio de inteligência artificial**. Se você quiser trocar ideias, sugerir melhorias ou tiver feedback, fique à vontade para me chamar!
 
 ---
 
