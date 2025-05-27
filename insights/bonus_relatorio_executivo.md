@@ -83,6 +83,25 @@ Com base nos dados históricos, espera-se:
 
 ---
 
+## 🎯 **Sugestões Estratégicas**  
+
+📌 **1. Descentralização da Produção**  
+🚚 Reduzir prazos de entrega ao estabelecer centros de produção locais nos países com maior demanda (EUA, Canadá e Reino Unido).  
+
+📌 **2. Expansão de Canais de Venda**  
+📈 Fortalecer a presença no Shopee em mercados estratégicos para alcançar mais consumidores.  
+
+📌 **3. Revisão de Precificação**  
+💰 Ajustar valores nos mercados de tíquete médio alto, mas demanda baixa (França e Japão).  
+
+📌 **4. Promoções e Marketing Regional**  
+📢 Investir em campanhas publicitárias localizadas para aumentar conversão nesses mercados.  
+
+📌 **5. Otimização de Logística**  
+🏭 Diversificar fornecedores e revisar rotas para reduzir custos operacionais.  
+
+---
+
 ## 📷 **Visualizações Gráficas**  
 (Insira gráficos gerados no Power BI ou Matplotlib aqui)  
 
