@@ -64,7 +64,10 @@ Esses países apresentam o maior desconto médio por venda, indicando um custo l
 ## 💵 2. Receita Líquida Média por País e Plataforma
 
 A receita líquida pode ser calculada como:
-*Receita Líquida = total_price - discount_value*
+
+```
+Receita Líquida = total_price - discount_value*
+```
 
 ## 📊 Dados de Receita Líquida Média
 
@@ -78,3 +81,11 @@ A receita líquida pode ser calculada como:
 
 Esses valores refletem a receita líquida média após aplicar descontos.
 
+# 📦 Análise de Logística e Performance de Vendas  
+
+## 🌍 Países com Maiores Valores Médios por Pedido  
+O valor médio por pedido pode ser calculado como:  
+
+```math
+Valor Médio por Pedido = total_price / quantity
+```
