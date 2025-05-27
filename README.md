@@ -15,11 +15,11 @@ Este projeto tem como objetivo utilizar **inteligência artificial** e **engenha
 **⚙️ Diferenças entre as ferramentas utilizadas:**
 
 - **ChatGPT (versão gratuita):**  
-  - Possui **limite na análise direta de grandes volumes de dados** (não aceita arquivos pesados).  
-  - **Gera gráficos diretamente** a partir de dados simples.
+  - Possui **limite na quantidade de análises que podem ser feitas**.  
+  - **Gera gráficos** com base nos próprios insights produzidos em resposta aos prompts.
 
-- **Microsoft Copilot (Excel/Power BI):**  
-  - **Não possui limite direto de dados**, ideal para **análises completas em planilhas grandes**.  
+- **Microsoft Copilot:**  
+  - **Não possui limite na quantidade de análises que podem ser realizadas**.
   - **Gera o código ou fórmula necessária**, mas não cria gráficos automaticamente — é necessário executar o código gerado.
 
 ---
@@ -29,7 +29,6 @@ Este projeto tem como objetivo utilizar **inteligência artificial** e **engenha
 - Facilita a análise para usuários não técnicos.
 - Permite gerar relatórios claros e prontos para apresentação.
 - Combina o melhor das ferramentas da Microsoft com o potencial da IA da OpenAI.
-
 
 ---
 
