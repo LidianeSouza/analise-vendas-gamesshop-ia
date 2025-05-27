@@ -17,14 +17,14 @@ Este projeto tem como objetivo utilizar **inteligência artificial** e **engenha
 - **ChatGPT (versão gratuita):**  
   - Possui **limite na quantidade de análises que podem ser feitas**.  
   - **Gera gráficos** com base nos próprios insights produzidos em resposta aos prompts.
-  - Permite carregar **mais de uma planilha ao mesmo tempo** (ex: foi possível anexar 3 planilhas com dados brutos). 
+  - Permite carregar **mais de uma planilha ao mesmo tempo** (foi possível anexar as 3 planilhas com dados brutos). ![Captura de tela dados no ChatGPT](https://github.com/LidianeSouza/analise-vendas-gamesshop-ia/raw/main/images/chatgpt_prompt.png) 
   - **Foi utilizado exclusivamente no conjunto de prompts do Item 1 ("Produtos Mais Populares por País") devido à limitação de interações da versão gratuita.** [👉 Clique aqui para ver o arquivo de prompts](https://github.com/LidianeSouza/analise-vendas-gamesshop-ia/blob/main/prompts/prompts_analise.md)
 
     
 - **Microsoft Copilot:**  
   - **Não possui limite na quantidade de análises que podem ser realizadas**.
   - **Gera o código ou fórmula necessária**, mas não cria gráficos automaticamente — é necessário executar o código gerado.
-  - Permite carregar **apenas uma planilha por vez**, idealmente com os dados já processados.
+  - Permite carregar **apenas uma planilha por vez**. (usei a planilha com os dados já processados) ![Captura de tela dados no Copilot](https://github.com/LidianeSouza/analise-vendas-gamesshop-ia/raw/main/images/chatgpt_prompt.png)
   - **Foi utilizado em todos os demais conjuntos de prompts (Itens 2, 3 e Bônus), permitindo maior profundidade analítica.** [👉 Clique aqui para ver o arquivo de prompts](https://github.com/LidianeSouza/analise-vendas-gamesshop-ia/blob/main/prompts/prompts_analise.md)
 
 
