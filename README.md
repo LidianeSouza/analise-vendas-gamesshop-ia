@@ -36,10 +36,10 @@ Com o uso de ferramentas como o **ChatGPT**, busquei gerar respostas claras e co
 
 Alguns exemplos de perguntas aplicadas à IA durante o processo:
 
-- “Quais são os 3 consoles mais vendidos por país?”
-- “Há tendências de queda ou crescimento em alguma região?”
-- “Com base nos dados, quais países precisam de uma logística mais otimizada?”
-- “Existe correlação entre volume de vendas e tempo médio de entrega?”
+- “Quais são os 3 produtos mais vendidos por país?”
+- “Quais países têm o maior custo logístico médio?”
+- “Existem gargalos logísticos (tempo ou custo acima da média)?”
+- “Quais decisões estratégicas podem ser tomadas com base nesses dados?”
 
 Todos os prompts utilizados estão documentados no arquivo [`prompts/prompts_analise.md`](prompts/prompts_analise.md).
 
@@ -47,10 +47,10 @@ Todos os prompts utilizados estão documentados no arquivo [`prompts/prompts_ana
 
 ## 💡 Principais Insights Obtidos
 
-- O console **GameBox Pro X** é o mais popular na América do Norte e Europa.
-- A região **da Ásia apresenta maior potencial de crescimento**, mas sofre com atrasos logísticos.
-- Países com **melhor desempenho logístico** tendem a ter maior volume de vendas.
-- Há uma **tendência de crescimento sazonal** no segundo semestre do ano.
+- O produto **"NEW MEGANIUM RG 40XXV"** foi destaque no Canadá e Japão.
+- Os maiores valores médios por pedido ocorrem principalmente em **Shopee e AliExpress**, sugerindo que esses canais possuem produtos de ticket mais alto nesses países.
+- Os meses de **junho, julho e agosto** tiveram os maiores volumes de vendas.
+- Podemos destacar que os **EUA, Canáda e Reino Unido** possuem **alta demanda** e poderiam se beneficiar de produção descentralizada para reduzir custos e melhorar prazos de entrega. 
 
 Mais detalhes no arquivo [`insights/insights_finais.md`](insights/insights_finais.md).
 
