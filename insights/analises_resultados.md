@@ -66,3 +66,17 @@ A receita líquida pode ser calculada como:
 
 ```math
 Receita Líquida = total_price - discount_value
+
+Abaixo está a média por país e plataforma:
+### Dados de Receita Líquida Média
+
+| 🌍 País        | 🛒 Plataforma | 💵 Receita Líquida Média |
+|---------------|---------------|--------------------------|
+| 🇺🇸 EUA        | 🧡 Etsy       | 168.97                   |
+| 🇨🇦 Canadá     | 🛍️ Shopee     | 204.57                   |
+| 🇬🇧 Reino Unido| 📦 AliExpress | 184.20                   |
+| 🇩🇪 Alemanha   | 🛍️ Shopee     | 317.67                   |
+| 🇦🇺 Austrália  | 🧡 Etsy       | 189.46                   |
+
+Esses valores refletem a receita líquida média após aplicar descontos.
+
