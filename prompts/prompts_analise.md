@@ -4,7 +4,7 @@
 - Quais são os 3 produtos mais vendidos por país?
 - Quantas unidades foram vendidas de cada um?
 - Apresente os resultados em formato de tabela, com países ordenados alfabeticamente e produtos por volume de vendas decrescente.
-  [Veja o exemplo aqui](https://github.com/LidianeSouza/analise-vendas-gamesshop-ia/raw/main/images/copilot_prompts.png)
+  [Veja o exemplo aqui](https://github.com/LidianeSouza/analise-vendas-gamesshop-ia/raw/main/images/chatgpt_prompts.png)
 
 ### 🚚 2. Insights sobre Transporte e Logística
 - Quais países têm o maior custo logístico médio?
