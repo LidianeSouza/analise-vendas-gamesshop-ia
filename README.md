@@ -17,10 +17,12 @@ Este projeto tem como objetivo utilizar **inteligência artificial** e **engenha
 - **ChatGPT (versão gratuita):**  
   - Possui **limite na quantidade de análises que podem ser feitas**.  
   - **Gera gráficos** com base nos próprios insights produzidos em resposta aos prompts.
-
+  - Permite carregar **mais de uma planilha ao mesmo tempo** (ex: foi possível anexar 3 planilhas com dados brutos).
+  - 
 - **Microsoft Copilot:**  
   - **Não possui limite na quantidade de análises que podem ser realizadas**.
   - **Gera o código ou fórmula necessária**, mas não cria gráficos automaticamente — é necessário executar o código gerado.
+  - Permite carregar **apenas uma planilha por vez**, idealmente com os dados já processados.
 
 ---
 
