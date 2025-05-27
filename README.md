@@ -17,7 +17,7 @@ Este projeto tem como objetivo utilizar **inteligência artificial** e **engenha
 - **ChatGPT (versão gratuita):**  
   - Possui **limite na quantidade de análises que podem ser feitas**.  
   - **Gera gráficos** com base nos próprios insights produzidos em resposta aos prompts.
-  - Permite carregar **mais de uma planilha ao mesmo tempo** (ex: foi possível anexar 3 planilhas com dados brutos).
+  - Permite carregar **mais de uma planilha ao mesmo tempo** (ex: foi possível anexar 3 planilhas com dados brutos). 
   - **Foi utilizado exclusivamente no conjunto de prompts do Item 1 ("Produtos Mais Populares por País") devido à limitação de interações da versão gratuita.** [👉 Clique aqui para ver o arquivo de prompts](https://github.com/LidianeSouza/analise-vendas-gamesshop-ia/blob/main/prompts/prompts_analise.md)
 
     
