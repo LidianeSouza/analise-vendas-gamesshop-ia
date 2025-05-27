@@ -2,7 +2,7 @@
 
 ## 🌍 1. Produtos Mais Populares por País
 
-### 🔍 Perguntas
+### 🔍 Prompts
 - **Quais são os 3 produtos mais vendidos por país?**
 - **Quantas unidades foram vendidas de cada um?**
 - **Resultados em formato de tabela, com países ordenados alfabeticamente e produtos por volume de vendas decrescente.**
@@ -52,7 +52,7 @@ Foi gerado um gráfico de barras agrupadas com os 3 produtos mais vendidos em ca
 
 ## 🚚 2. Insights sobre Transporte e Logística
 
-### 🔍 Perguntas
+### 🔍 Prompts
 - **Quais países têm o maior custo logístico médio?**
 - **Calcular a receita líquida média por país e por plataforma.**
 - **Quais países possuem os maiores valores médios por pedido? Há relação com o canal de vendas (AliExpress, Etsy, Shopee)?**
@@ -136,7 +136,7 @@ Para identificar regiões com baixo desempenho, podemos analisar fatores como me
 
 ## 📈 3. Estratégias de Crescimento e Otimização 
 
-### 🔍 Perguntas
+### 🔍 Prompts
 - **Analisar o volume de vendas por mês e produto**  
 *Identificar tendências e sazonalidades.*
 - **Projetar a demanda para os próximos 3 meses por produto e país.**
