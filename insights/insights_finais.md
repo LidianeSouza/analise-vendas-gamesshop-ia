@@ -104,7 +104,7 @@ Valor Médio por Pedido = total_price / quantity
 | 🇬🇧 Reino Unido| 100.00                  | AliExpress           |
 | 🇨🇦 Canadá    | 100.00                   | Shopee               |
 
-Os maiores valores médios por pedido ocorrem principalmente em Shopee e AliExpress, sugerindo que esses canais possuem produtos de ticket mais alto nesses países.
+Os maiores valores médios por pedido ocorrem principalmente em **Shopee e AliExpress**, sugerindo que esses canais possuem produtos de ticket mais alto nesses países.
 
 ### 🚧 Gargalos Logísticos Identificados
 
