@@ -1,4 +1,12 @@
-# 📈 Relatório de Performance e Expansão Estratégica  
+# ✅ BÔNUS: Geração de Relatório Executivo
+
+
+**Gere um relatório com:**
+- **Resumo da performance por país e produto**  
+- **Análise por canal de venda**  
+- **Principais produtos e mercados estratégicos**  
+- **Sugestões para melhoria logística, projeção de demanda e oportunidades de expansão**  
+- **📊 Inclua gráficos e tabelas comparativas, se possível, e resumo executivo de até 3 linhas para apresentação a lideranças.**
 
 ## 📊 Resumo Executivo  
 Nos últimos meses, os produtos da linha **Meganium** apresentaram variação significativa nas vendas por país e canal de venda. **EUA, Canadá e Reino Unido** lideram em volume de pedidos, enquanto **Japão e França** mostram baixo desempenho. Estratégias de expansão devem focar em otimização logística e ajustes de precificação.  
