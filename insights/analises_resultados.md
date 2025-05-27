@@ -52,6 +52,14 @@ Foi gerado um gráfico de barras agrupadas com os 3 produtos mais vendidos em ca
 
 ## 🚚 2. Insights sobre Transporte e Logística
 
+### 🔍 Perguntas
+- **Quais países têm o maior custo logístico médio?**
+- **Calcular a receita líquida média por país e por plataforma.**
+- **Quais países possuem os maiores valores médios por pedido? Há relação com o canal de vendas (AliExpress, Etsy, Shopee)?**
+- **Existem gargalos logísticos (tempo ou custo acima da média)?**
+- **Aponte regiões com baixo desempenho e sugestões de ações de melhoria**  
+*(ex: revisão de rotas, fornecedores, canais).*
+
 ### 🌎 1. Países com Maior Custo Logístico Médio
 Para calcular o custo logístico médio, consideramos o valor médio dos descontos aplicados por país. Aqui estão os países com os maiores custos logísticos médios (desconto médio por venda):
 
@@ -127,6 +135,14 @@ Para identificar regiões com baixo desempenho, podemos analisar fatores como me
 ---
 
 ## 📈 3. Estratégias de Crescimento e Otimização 
+
+### 🔍 Perguntas
+- **Analisar o volume de vendas por mês e produto**  
+*Identificar tendências e sazonalidades.*
+- **Projetar a demanda para os próximos 3 meses por produto e país.**
+- **Indicar regiões com alta demanda onde a produção poderia ser descentralizada.**
+- **Identificar países com tíquete médio alto, mas vendas baixas — sugerir estratégias de expansão.**
+- **Quais decisões estratégicas podem ser tomadas com base nesses dados?**
 
 ### 📆 Tendências e Sazonalidades  
 A seguir, o volume total de vendas por mês para cada produto:  
