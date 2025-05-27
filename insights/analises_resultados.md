@@ -195,7 +195,7 @@ Com base nas tendências observadas, aqui está a estimativa de demanda para os 
 - **Promoções e campanhas** no início do ano para manter o ritmo de vendas pós-festas.  
 - **Ajuste de canais de vendas**, focando nos países que tiveram maior demanda nos últimos meses.  
 
-## 🌎 Regiões com Alta Demanda para Descentralização da Produção  
+### 🌎 Regiões com Alta Demanda para Descentralização da Produção  
 Com base no volume de vendas, podemos destacar países que possuem **alta demanda** e poderiam se beneficiar de produção descentralizada para reduzir custos e melhorar prazos de entrega.  
 
 | 🌍 País       | 🛒 Volume de Vendas | 🏭 Oportunidade de Produção Local |
