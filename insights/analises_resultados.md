@@ -5,8 +5,6 @@
 - **Quantas unidades foram vendidas de cada um?**
 - **Resultados em formato de tabela, com países ordenados alfabeticamente e produtos por volume de vendas decrescente.**
 
----
-
 ## 📋 Tabela: Top 3 Produtos Mais Vendidos por País
 
 | País        | Produto                     | Quantidade Vendida |
@@ -32,8 +30,6 @@
 | USA         | MEGANIUM RG353M             | 4                   |
 |             | NEW MEGANIUM RG CubeXX      | 1                   |
 
----
-
 ## 📈 Visualização Gráfica
 
 Foi gerado um gráfico de barras agrupadas com os 3 produtos mais vendidos em cada país, com as seguintes características:
@@ -44,11 +40,29 @@ Foi gerado um gráfico de barras agrupadas com os 3 produtos mais vendidos em ca
 - **Legenda**: Países
 - **Ordenação**: Produtos organizados por volume de vendas decrescente dentro de cada país
 
----
-
 ## 🧠 Observações
 
 - O produto **"NEW MEGANIUM RG 40XXV"** foi destaque no Canadá e Japão.
 - O **"MEGANIUM RG353M"** aparece em quase todos os países, mesmo com volume um pouco menor.
 - A presença de variações como **"CubeXX"**, **"28XX"** e **"35XX"** indica boa diversificação de vendas da marca.
 
+---
+
+# 📦 Análise de Custos Logísticos e Receita Líquida Média
+
+## 🌎 1. Países com Maior Custo Logístico Médio
+Para calcular o custo logístico médio, consideramos o valor médio dos descontos aplicados por país. Aqui estão os países com os maiores custos logísticos médios (desconto médio por venda):
+
+| 🌍 País       | 💰 Custo Logístico Médio (Desconto Médio) |
+|--------------|-----------------------------------|
+| 🇨🇦 Canadá     | 53.57                            |
+| 🇬🇧 Reino Unido | 52.93                            |
+| 🇦🇺 Austrália  | 51.36                            |
+
+Esses países apresentam o maior desconto médio por venda, indicando um custo logístico possivelmente mais elevado.
+
+## 💵 2. Receita Líquida Média por País e Plataforma
+A receita líquida pode ser calculada como:
+
+```math
+Receita Líquida = total_price - discount_value
