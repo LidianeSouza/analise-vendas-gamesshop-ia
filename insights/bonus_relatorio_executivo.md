@@ -91,7 +91,7 @@ Com base nos dados históricos, espera-se:
 
 ---
 
-**🔗 Conclusão:**  
+## 🔗 Conclusão:  
 O sucesso da linha **Meganium** pode ser ampliado com ajustes na **produção, precificação e logística**. Focar na **expansão para mercados estratégicos** e otimização de **canais de venda** trará **crescimento sustentável**.  
 
 🚀 **Vamos transformar insights em ação!** 😃📦  
