@@ -18,11 +18,13 @@ Este projeto tem como objetivo utilizar **inteligência artificial** e **engenha
   - Possui **limite na quantidade de análises que podem ser feitas**.  
   - **Gera gráficos** com base nos próprios insights produzidos em resposta aos prompts.
   - Permite carregar **mais de uma planilha ao mesmo tempo** (ex: foi possível anexar 3 planilhas com dados brutos).
-  - 
+  - **Foi utilizado exclusivamente no conjunto de prompts do Item 1 ("Produtos Mais Populares por País") devido à limitação de interações da versão gratuita.**
+    
 - **Microsoft Copilot:**  
   - **Não possui limite na quantidade de análises que podem ser realizadas**.
   - **Gera o código ou fórmula necessária**, mas não cria gráficos automaticamente — é necessário executar o código gerado.
   - Permite carregar **apenas uma planilha por vez**, idealmente com os dados já processados.
+  - **Foi utilizado em todos os demais conjuntos de prompts (Itens 2, 3 e Bônus), permitindo maior profundidade analítica.**
 
 ---
 
