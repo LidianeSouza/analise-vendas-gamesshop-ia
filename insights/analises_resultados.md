@@ -66,7 +66,7 @@ Esses países apresentam o maior desconto médio por venda, indicando um custo l
 A receita líquida pode ser calculada como:
 
 ```
-Receita Líquida = total_price - discount_value*
+Receita Líquida = total_price - discount_value
 ```
 
 ## 📊 Dados de Receita Líquida Média
@@ -86,6 +86,40 @@ Esses valores refletem a receita líquida média após aplicar descontos.
 ## 🌍 Países com Maiores Valores Médios por Pedido  
 O valor médio por pedido pode ser calculado como:  
 
-```math
+```
 Valor Médio por Pedido = total_price / quantity
 ```
+
+| 🌍 País       | 💰 Valor Médio por Pedido | 🛒 Canal Predominante |
+|--------------|--------------------------|----------------------|
+| 🇩🇪 Alemanha  | 110.00                   | Shopee               |
+| 🇬🇧 Reino Unido| 100.00                  | AliExpress           |
+| 🇨🇦 Canadá    | 100.00                   | Shopee               |
+
+Os maiores valores médios por pedido ocorrem principalmente em Shopee e AliExpress, sugerindo que esses canais possuem produtos de ticket mais alto nesses países.
+
+## 🚧 Gargalos Logísticos Identificados
+
+Os gargalos logísticos podem envolver tempo excessivo de entrega ou custo acima da média. Aqui estão algumas observações:
+
+- **Custo elevado:**  
+  Os países com os maiores descontos aplicados (indicando possíveis altos custos logísticos) são:  
+  - 🇦🇺 Austrália: 86.68  
+  - 🇬🇧 Reino Unido: 86.51
+
+- **Possíveis atrasos:**  
+  Caso tenhamos dados de prazo de entrega, poderíamos verificar se esses custos refletem dificuldades operacionais, como transporte internacional demorado.
+
+## 📉 Regiões com Baixa Performance & Ações de Melhoria
+
+Para identificar regiões com baixo desempenho, podemos analisar fatores como menor receita líquida e alto custo logístico.
+
+## 🔍 Regiões com Baixo Desempenho
+
+- 🇫🇷 França e 🇯🇵 Japão apresentam pedidos menores e descontos relativamente altos.
+
+## 🚀 Sugestões de Melhoria
+
+- 🚚 **Revisão de rotas e fornecedores:** Otimizar transportadoras e armazenagem para reduzir custos e prazos de entrega.  
+- 📈 **Promoção de canais alternativos:** Explorar Shopee em mercados com baixa performance para ampliar vendas.  
+- 💳 **Estratégia de precificação:** Ajustar preços e descontos para tornar ofertas mais competitivas nos países de menor demanda.
