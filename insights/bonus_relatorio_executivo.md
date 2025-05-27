@@ -1,6 +1,6 @@
 # ✅ BÔNUS: Geração de Relatório Executivo
 
-
+### 🔍 Prompt
 **Gere um relatório com:**
 - **Resumo da performance por país e produto**  
 - **Análise por canal de venda**  
