@@ -8,9 +8,28 @@ A **GamesShop** é uma fabricante global de consoles de videogame. Seu foco est�
 
 ## 🎯 Objetivo do Projeto
 
-Este projeto tem como objetivo utilizar **inteligência artificial e engenharia de prompts** para analisar relatórios de vendas da GamesShop e **extrair insights estratégicos**. A análise será baseada em planilhas consolidadas de vendas de terceiros, permitindo transformar dados brutos em informações úteis para o fabricante.
+Este projeto tem como objetivo utilizar **inteligência artificial** e **engenharia de prompts** para analisar relatórios de vendas da **GamesShop** e extrair **insights estratégicos**. A análise é baseada em planilhas consolidadas de vendas de terceiros, permitindo transformar **dados brutos** em **informações úteis para o fabricante**.
 
-Com o uso de ferramentas como o **ChatGPT**, busquei gerar respostas claras e contextualizadas a partir de perguntas específicas (prompts), abordando questões importantes para a empresa.
+**🤖 Abordagem Utilizada:** Com o uso de ferramentas como o **ChatGPT** e o **Microsoft Copilot**, foram desenvolvidas análises orientadas por perguntas específicas (prompts), respondendo a questões relevantes para a tomada de decisão da empresa.
+
+**⚙️ Diferenças entre as ferramentas utilizadas:**
+
+- **ChatGPT (versão gratuita):**  
+  - Possui **limite na análise direta de grandes volumes de dados** (não aceita arquivos pesados).  
+  - **Gera gráficos diretamente** a partir de dados simples.
+
+- **Microsoft Copilot (Excel/Power BI):**  
+  - **Não possui limite direto de dados**, ideal para **análises completas em planilhas grandes**.  
+  - **Gera o código ou fórmula necessária**, mas não cria gráficos automaticamente — é necessário executar o código gerado.
+
+---
+
+## 💡 Benefícios da abordagem
+
+- Facilita a análise para usuários não técnicos.
+- Permite gerar relatórios claros e prontos para apresentação.
+- Combina o melhor das ferramentas da Microsoft com o potencial da IA da OpenAI.
+
 
 ---
 
