@@ -4,7 +4,7 @@
 - Quais são os 3 produtos mais vendidos por país?
 - Quantas unidades foram vendidas de cada um?
 - Apresente os resultados em formato de tabela, com países ordenados alfabeticamente e produtos por volume de vendas decrescente.
-- ![Captura de tela ChatGPT com prompts](https://github.com/LidianeSouza/analise-vendas-gamesshop-ia/raw/main/images/chatgpt_prompts.png)
+  [Veja o exemplo aqui](https://github.com/LidianeSouza/analise-vendas-gamesshop-ia/raw/main/images/copilot_prompts.png)
 
 ### 🚚 2. Insights sobre Transporte e Logística
 - Quais países têm o maior custo logístico médio?
@@ -12,21 +12,7 @@
 - Quais países possuem os maiores valores médios por pedido? Há correlação com o canal de vendas (AliExpress, Etsy, Shopee)?
 - Existem gargalos logísticos (tempo ou custo acima da média)?
 - Aponte regiões com baixa performance e sugira ações de melhoria (ex: revisão de rotas, fornecedores, canais).
-  [Veja a imagem aqui](https://github.com/LidianeSouza/analise-vendas-gamesshop-ia/raw/main/images/copilot_prompts.png)
-
-
-
-
-
-
-
-
-
-
-
-
-- ![Captura de tela Copilot com prompts](https://github.com/LidianeSouza/analise-vendas-gamesshop-ia/raw/main/images/copilot_prompts.png)
-
+  [Veja o exemplo aqui](https://github.com/LidianeSouza/analise-vendas-gamesshop-ia/raw/main/images/copilot_prompts.png)
 
 ### 📈 3. Estratégias de Crescimento e Otimização
 - Analise o volume de vendas por mês e produto (tendências e sazonalidades).
