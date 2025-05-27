@@ -42,6 +42,8 @@ Foi gerado um gráfico de barras agrupadas com os 3 produtos mais vendidos em ca
 - **Legenda**: Países
 - **Ordenação**: Produtos organizados por volume de vendas decrescente dentro de cada país
 
+![Gráfico dos 3 produtos mais vendidos por país](https://github.com/LidianeSouza/analise-vendas-gamesshop-ia/raw/main/images/grafico_chatgpt.png)
+
 ### 🧠 Observações
 
 - O produto **"NEW MEGANIUM RG 40XXV"** foi destaque no Canadá e Japão.
