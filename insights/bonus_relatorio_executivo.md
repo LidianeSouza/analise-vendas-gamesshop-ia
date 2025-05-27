@@ -102,15 +102,7 @@ Com base nos dados históricos, espera-se:
 
 ---
 
-## 📷 **Visualizações Gráficas**  
-(Insira gráficos gerados no Power BI ou Matplotlib aqui)  
-
-![Gráfico de Barras - Vendas por País](https://via.placeholder.com/600x300?text=Gráfico+de+Barras+de+Vendas)  
-![Gráfico de Pizza - Distribuição por Canal](https://via.placeholder.com/600x300?text=Gráfico+de+Pizza+por+Canal)  
-
----
-
-## 🔗 Conclusão:  
+## 🏆 Conclusão:  
 O sucesso da linha **Meganium** pode ser ampliado com ajustes na **produção, precificação e logística**. Focar na **expansão para mercados estratégicos** e otimização de **canais de venda** trará **crescimento sustentável**.  
 
 🚀 **Vamos transformar insights em ação!** 😃📦  
