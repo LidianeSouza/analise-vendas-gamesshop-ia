@@ -25,10 +25,11 @@ Com o uso de ferramentas como o **ChatGPT**, busquei gerar respostas claras e co
 
 ## 🤖 Ferramentas e Tecnologias Utilizadas
 
-- 🧠 [ChatGPT (OpenAI)](https://chat.openai.com/) – Para análise de dados via prompts estruturados
-- 📊 Excel / Google Sheets – Para visualização e preparação inicial das planilhas
-- 📝 Markdown – Para documentação dos prompts e dos insights
-- 💾 CSV – Formato principal dos dados analisados
+- 🧠 **ChatGPT (OpenAI)** – Para análise de dados via prompts estruturados  
+- 🤖 **Microsoft Copilot** – Para assistência na criação de conteúdo e automação de análises  
+- 📊 **Excel / Planilhas Google** – Para visualização e preparação inicial das planilhas  
+- 📝 **Markdown** – Para documentação dos prompts e dos insights  
+- 💾 **CSV** – Formato principal dos dados analisados  
 
 ---
 
@@ -62,10 +63,10 @@ Este projeto faz parte dos meus estudos práticos sobre **análise de dados com 
 
 ---
 
-## 🔗 Links úteis
+## 🔗 Links Úteis
 
-- [Portal Microsoft Azure](https://portal.azure.com/)
-- [Microsoft Learn – Treinamentos Gratuitos](https://learn.microsoft.com/pt-br/training/)
-- [ChatGPT da OpenAI](https://chat.openai.com/)
-
+- [Portal Microsoft Azure](https://portal.azure.com)  
+- [Microsoft Learn – Treinamentos Gratuitos](https://learn.microsoft.com/pt-br/training/)  
+- [ChatGPT da OpenAI](https://chat.openai.com)  
+- [Microsoft Copilot](https://www.microsoft.com/pt-br/microsoft-copilot)
 
