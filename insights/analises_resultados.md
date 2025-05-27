@@ -60,7 +60,7 @@ Foi gerado um gráfico de barras agrupadas com os 3 produtos mais vendidos em ca
 - **Aponte regiões com baixo desempenho e sugestões de ações de melhoria**  
 *(ex: revisão de rotas, fornecedores, canais).*
 
-### 🌎 1. Países com Maior Custo Logístico Médio
+### 🌎 Países com Maior Custo Logístico Médio
 Para calcular o custo logístico médio, consideramos o valor médio dos descontos aplicados por país. Aqui estão os países com os maiores custos logísticos médios (desconto médio por venda):
 
 | 🌍 País       | 💰 Custo Logístico Médio (Desconto Médio) |
@@ -71,7 +71,7 @@ Para calcular o custo logístico médio, consideramos o valor médio dos descont
 
 Esses países apresentam o maior desconto médio por venda, indicando um custo logístico possivelmente mais elevado.
 
-### 💵 2. Receita Líquida Média por País e Plataforma
+### 💵 Receita Líquida Média por País e Plataforma
 
 A receita líquida pode ser calculada como:
 
