@@ -12,6 +12,19 @@
 - Quais países possuem os maiores valores médios por pedido? Há correlação com o canal de vendas (AliExpress, Etsy, Shopee)?
 - Existem gargalos logísticos (tempo ou custo acima da média)?
 - Aponte regiões com baixa performance e sugira ações de melhoria (ex: revisão de rotas, fornecedores, canais).
+  [Veja a imagem aqui](https://github.com/LidianeSouza/analise-vendas-gamesshop-ia/raw/main/images/copilot_prompts.png)
+
+
+
+
+
+
+
+
+
+
+
+
 - ![Captura de tela Copilot com prompts](https://github.com/LidianeSouza/analise-vendas-gamesshop-ia/raw/main/images/copilot_prompts.png)
 
 
