@@ -67,16 +67,7 @@ A receita líquida pode ser calculada como:
 ```math
 Receita Líquida = total_price - discount_value
 
-Aqui está a tabela formatada em Markdown, pronta para ser adicionada a um repositório:
 
-```markdown
-# 💰 Receita Líquida Média por País e Plataforma
-
-A receita líquida é calculada como:
-
-```math
-Receita Líquida = total_price - discount_value
-```
 
 ## 📊 Dados de Receita Líquida Média
 
@@ -88,8 +79,7 @@ Receita Líquida = total_price - discount_value
 | 🇩🇪 Alemanha | 🛍️ Shopee      | 317.67               |
 | 🇦🇺 Austrália | 🧡 Etsy       | 189.46               |
 
-Este formato facilita a leitura e a inclusão em um repositório! Se precisar de mais ajustes ou informações, é só me chamar. 🚀😃
-```
+
 
 
 
